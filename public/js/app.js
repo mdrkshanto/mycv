@@ -20663,7 +20663,7 @@ var _hoisted_45 = {
   "class": "row"
 };
 var _hoisted_46 = {
-  "class": "col-md-9"
+  "class": "col-md-7"
 };
 var _hoisted_47 = {
   "class": "my-2"
@@ -20684,7 +20684,7 @@ var _hoisted_50 = {
   "class": "position-relative"
 };
 var _hoisted_51 = {
-  "class": "col-md-3"
+  "class": "col-md-5"
 };
 var _hoisted_52 = {
   "class": "my-2"

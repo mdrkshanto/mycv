@@ -149,7 +149,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-9">
+          <div class="col-md-7">
             <div class="my-2">
               <label class="form-label">Profile Photo</label>
               <div class="input-group input-group-sm">
@@ -177,7 +177,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-5">
             <div class="my-2">
               <label class="form-label">Status</label>
               <div class="input-group input-group-sm">

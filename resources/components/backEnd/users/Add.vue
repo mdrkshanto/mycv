@@ -12,7 +12,9 @@
               type="text"
               class="form-control shadow-none text-lowercase"
               placeholder="Username"
-              v-model="form.name" @keypress.space.prevent @input="form.name = $event.target.value.toLowerCase()"
+              v-model="form.name"
+              @keypress.space.prevent
+              @input="form.name = $event.target.value.toLowerCase()"
             />
           </div>
         </div>
@@ -23,10 +25,12 @@
               ><i class="fa-duotone fa-at"></i
             ></span>
             <input
-              type="text"
+              type="email"
               class="form-control shadow-none text-lowercase"
               placeholder="Email"
-              v-model="form.email" @keypress.space.prevent @input="form.email = $event.target.value.toLowerCase()"
+              v-model="form.email"
+              @keypress.space.prevent
+              @input="form.email = $event.target.value.toLowerCase()"
             />
           </div>
         </div>
@@ -148,10 +152,7 @@ export default {
     },
     submit() {
       this.form.post("/add-user").then(() => {
-        this.form.name = null;
-        this.form.email = null;
-        this.form.password = null;
-        this.form.password_confirmation = null;
+        this.reset();
       });
     },
     reset() {
@@ -161,13 +162,6 @@ export default {
       this.form.password_confirmation = null;
     },
   },
-  mounted() {
-    $(function () {
-      $("#datepicker").datepicker({
-        changeMonth: true,
-        changeYear: true,
-      });
-    });
-  },
+  mounted() {},
 };
 </script>

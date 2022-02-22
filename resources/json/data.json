@@ -1,8 +1,80 @@
 {
-    "countries" :[
+    "countries": [
         {
-            "value" : "bd",
-            "text":"Bangladesh"
+            "value": null,
+            "text": "Select Country"
+        },
+        {
+            "value": "bd",
+            "text": "Bangladesh"
+        }
+    ],
+    "bgColors": [
+        {
+            "value": null,
+            "text": "Background Color"
+        },
+        {
+            "value": "primary",
+            "text": "Blue"
+        },
+        {
+            "value": "secondary",
+            "text": "Gray"
+        },
+        {
+            "value": "success",
+            "text": "Green"
+        },
+        {
+            "value": "danger",
+            "text": "Red"
+        },
+        {
+            "value": "warning",
+            "text": "Yellow"
+        },
+        {
+            "value": "info",
+            "text": "Sky"
+        },
+        {
+            "value": "light",
+            "text": "White"
+        },
+        {
+            "value": "dark",
+            "text": "Dark"
+        },
+        {
+            "value": "black",
+            "text": "Black"
+        }
+    ],
+    "bgOpacities": [
+        {
+            "value": null,
+            "text": "Opacity"
+        },
+        {
+            "value": "0",
+            "text": "0%"
+        },
+        {
+            "value": "25",
+            "text": "25%"
+        },
+        {
+            "value": "50",
+            "text": "50%"
+        },
+        {
+            "value": "75",
+            "text": "75%"
+        },
+        {
+            "value": "100",
+            "text": "100%"
         }
     ]
 }

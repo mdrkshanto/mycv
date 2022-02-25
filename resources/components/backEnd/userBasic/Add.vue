@@ -28,6 +28,7 @@
                   class="form-control shadow-none"
                   v-model.number="form.phone"
                   @keypress.space.prevent
+                  placeholder="Mobile Number"
                 />
               </div>
             </div>
@@ -151,8 +152,23 @@
         <div class="row">
           <div class="col-md-7">
             <div class="my-2">
-              <label class="form-label">Profile Photo</label>
-              <div class="input-group input-group-sm">
+              <div class="row justify-content-between justify-items-center">
+                <label class="form-label col">Profile Photo</label>
+                <div class="form-check form-switch col text-end">
+                  <input
+                    class="form-check-input shadow-none"
+                    type="checkbox"
+                    role="switch"
+                    v-model="photoLink"
+                  />
+                  <label
+                    class="form-check-label fw-bolder"
+                    :class="photoLink === false ? 'text-primary' : 'text-info'"
+                    >{{ photoLink === false ? "No link" : "Has link" }}</label
+                  >
+                </div>
+              </div>
+              <div class="input-group input-group-sm" v-if="!photoLink">
                 <div class="position-relative">
                   <input
                     class="form-control form-control-sm shadow-none"
@@ -175,6 +191,17 @@
                   ></button>
                 </div>
               </div>
+              <div class="input-group input-group-sm" v-if="photoLink">
+                  <span class="input-group-text"
+                    ><i class="fa-duotone fa-link"></i
+                  ></span>
+                  <input
+                    type="text"
+                    class="form-control shadow-none"
+                    placeholder="Photo Link"
+                    v-model="form.profileImg" @keypress.space.prevent
+                  />
+                </div>
             </div>
           </div>
           <div class="col-md-5">
@@ -235,13 +262,14 @@
   </div>
 </template>
 <script>
-import countries from "../../../json/data";
+import jsonData from "../../../json/data";
 export default {
   data() {
     return {
-      countries: countries.countries,
+      countries: jsonData.countries,
       mediaName: null,
       mediaLink: null,
+      photoLink: false,
       form: new Form({
         userId: 1,
         phone: null,
@@ -249,7 +277,7 @@ export default {
         dob: null,
         country: null,
         medias: [],
-        profileImg: null,
+        profileImg:null,
         status: Boolean(1),
       }),
     };

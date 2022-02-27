@@ -1,12 +1,2024 @@
 {
     "countries": [
         {
-            "value": null,
-            "text": "Select Country"
+            "code": null,
+            "name": "Select Country"
         },
         {
-            "value": "bd",
-            "text": "Bangladesh"
+            "name": "Afghanistan",
+            "code": "AF",
+            "phone": 93,
+            "currency": "AFN",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Aland Islands",
+            "code": "AX",
+            "phone": 358,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Albania",
+            "code": "AL",
+            "phone": 355,
+            "currency": "ALL",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Algeria",
+            "code": "DZ",
+            "phone": 213,
+            "currency": "DZD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "American Samoa",
+            "code": "AS",
+            "phone": 1684,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Andorra",
+            "code": "AD",
+            "phone": 376,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Angola",
+            "code": "AO",
+            "phone": 244,
+            "currency": "AOA",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Anguilla",
+            "code": "AI",
+            "phone": 1264,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Antarctica",
+            "code": "AQ",
+            "phone": 672,
+            "currency": "AAD",
+            "continent": "Antarctica",
+            "continent_code": "AN"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "code": "AG",
+            "phone": 1268,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Argentina",
+            "code": "AR",
+            "phone": 54,
+            "currency": "ARS",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Armenia",
+            "code": "AM",
+            "phone": 374,
+            "currency": "AMD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Aruba",
+            "code": "AW",
+            "phone": 297,
+            "currency": "AWG",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Australia",
+            "code": "AU",
+            "phone": 61,
+            "currency": "AUD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Austria",
+            "code": "AT",
+            "phone": 43,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Azerbaijan",
+            "code": "AZ",
+            "phone": 994,
+            "currency": "AZN",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Bahamas",
+            "code": "BS",
+            "phone": 1242,
+            "currency": "BSD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Bahrain",
+            "code": "BH",
+            "phone": 973,
+            "currency": "BHD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Bangladesh",
+            "code": "BD",
+            "phone": 880,
+            "currency": "BDT",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Barbados",
+            "code": "BB",
+            "phone": 1246,
+            "currency": "BBD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Belarus",
+            "code": "BY",
+            "phone": 375,
+            "currency": "BYN",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Belgium",
+            "code": "BE",
+            "phone": 32,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Belize",
+            "code": "BZ",
+            "phone": 501,
+            "currency": "BZD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Benin",
+            "code": "BJ",
+            "phone": 229,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Bermuda",
+            "code": "BM",
+            "phone": 1441,
+            "currency": "BMD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Bhutan",
+            "code": "BT",
+            "phone": 975,
+            "currency": "BTN",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Bolivia",
+            "code": "BO",
+            "phone": 591,
+            "currency": "BOB",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "code": "BQ",
+            "phone": 599,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "code": "BA",
+            "phone": 387,
+            "currency": "BAM",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Botswana",
+            "code": "BW",
+            "phone": 267,
+            "currency": "BWP",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Bouvet Island",
+            "code": "BV",
+            "phone": 55,
+            "currency": "NOK",
+            "continent": "Antarctica",
+            "continent_code": "AN"
+        },
+        {
+            "name": "Brazil",
+            "code": "BR",
+            "phone": 55,
+            "currency": "BRL",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "British Indian Ocean Territory",
+            "code": "IO",
+            "phone": 246,
+            "currency": "USD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Brunei Darussalam",
+            "code": "BN",
+            "phone": 673,
+            "currency": "BND",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Bulgaria",
+            "code": "BG",
+            "phone": 359,
+            "currency": "BGN",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Burkina Faso",
+            "code": "BF",
+            "phone": 226,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Burundi",
+            "code": "BI",
+            "phone": 257,
+            "currency": "BIF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Cambodia",
+            "code": "KH",
+            "phone": 855,
+            "currency": "KHR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Cameroon",
+            "code": "CM",
+            "phone": 237,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Canada",
+            "code": "CA",
+            "phone": 1,
+            "currency": "CAD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Cape Verde",
+            "code": "CV",
+            "phone": 238,
+            "currency": "CVE",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Cayman Islands",
+            "code": "KY",
+            "phone": 1345,
+            "currency": "KYD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Central African Republic",
+            "code": "CF",
+            "phone": 236,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Chad",
+            "code": "TD",
+            "phone": 235,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Chile",
+            "code": "CL",
+            "phone": 56,
+            "currency": "CLP",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "China",
+            "code": "CN",
+            "phone": 86,
+            "currency": "CNY",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Christmas Island",
+            "code": "CX",
+            "phone": 61,
+            "currency": "AUD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Cocos (Keeling) Islands",
+            "code": "CC",
+            "phone": 672,
+            "currency": "AUD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Colombia",
+            "code": "CO",
+            "phone": 57,
+            "currency": "COP",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Comoros",
+            "code": "KM",
+            "phone": 269,
+            "currency": "KMF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Congo",
+            "code": "CG",
+            "phone": 242,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Congo, Democratic Republic of the Congo",
+            "code": "CD",
+            "phone": 242,
+            "currency": "CDF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Cook Islands",
+            "code": "CK",
+            "phone": 682,
+            "currency": "NZD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Costa Rica",
+            "code": "CR",
+            "phone": 506,
+            "currency": "CRC",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Cote D'Ivoire",
+            "code": "CI",
+            "phone": 225,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Croatia",
+            "code": "HR",
+            "phone": 385,
+            "currency": "HRK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Cuba",
+            "code": "CU",
+            "phone": 53,
+            "currency": "CUP",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Curacao",
+            "code": "CW",
+            "phone": 599,
+            "currency": "ANG",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Cyprus",
+            "code": "CY",
+            "phone": 357,
+            "currency": "EUR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Czech Republic",
+            "code": "CZ",
+            "phone": 420,
+            "currency": "CZK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Denmark",
+            "code": "DK",
+            "phone": 45,
+            "currency": "DKK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Djibouti",
+            "code": "DJ",
+            "phone": 253,
+            "currency": "DJF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Dominica",
+            "code": "DM",
+            "phone": 1767,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Dominican Republic",
+            "code": "DO",
+            "phone": 1809,
+            "currency": "DOP",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Ecuador",
+            "code": "EC",
+            "phone": 593,
+            "currency": "USD",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Egypt",
+            "code": "EG",
+            "phone": 20,
+            "currency": "EGP",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "El Salvador",
+            "code": "SV",
+            "phone": 503,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "code": "GQ",
+            "phone": 240,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Eritrea",
+            "code": "ER",
+            "phone": 291,
+            "currency": "ERN",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Estonia",
+            "code": "EE",
+            "phone": 372,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Ethiopia",
+            "code": "ET",
+            "phone": 251,
+            "currency": "ETB",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Falkland Islands (Malvinas)",
+            "code": "FK",
+            "phone": 500,
+            "currency": "FKP",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Faroe Islands",
+            "code": "FO",
+            "phone": 298,
+            "currency": "DKK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Fiji",
+            "code": "FJ",
+            "phone": 679,
+            "currency": "FJD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Finland",
+            "code": "FI",
+            "phone": 358,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "France",
+            "code": "FR",
+            "phone": 33,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "French Guiana",
+            "code": "GF",
+            "phone": 594,
+            "currency": "EUR",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "French Polynesia",
+            "code": "PF",
+            "phone": 689,
+            "currency": "XPF",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "French Southern Territories",
+            "code": "TF",
+            "phone": 262,
+            "currency": "EUR",
+            "continent": "Antarctica",
+            "continent_code": "AN"
+        },
+        {
+            "name": "Gabon",
+            "code": "GA",
+            "phone": 241,
+            "currency": "XAF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Gambia",
+            "code": "GM",
+            "phone": 220,
+            "currency": "GMD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Georgia",
+            "code": "GE",
+            "phone": 995,
+            "currency": "GEL",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Germany",
+            "code": "DE",
+            "phone": 49,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Ghana",
+            "code": "GH",
+            "phone": 233,
+            "currency": "GHS",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Gibraltar",
+            "code": "GI",
+            "phone": 350,
+            "currency": "GIP",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Greece",
+            "code": "GR",
+            "phone": 30,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Greenland",
+            "code": "GL",
+            "phone": 299,
+            "currency": "DKK",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Grenada",
+            "code": "GD",
+            "phone": 1473,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Guadeloupe",
+            "code": "GP",
+            "phone": 590,
+            "currency": "EUR",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Guam",
+            "code": "GU",
+            "phone": 1671,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Guatemala",
+            "code": "GT",
+            "phone": 502,
+            "currency": "GTQ",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Guernsey",
+            "code": "GG",
+            "phone": 44,
+            "currency": "GBP",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Guinea",
+            "code": "GN",
+            "phone": 224,
+            "currency": "GNF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "code": "GW",
+            "phone": 245,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Guyana",
+            "code": "GY",
+            "phone": 592,
+            "currency": "GYD",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Haiti",
+            "code": "HT",
+            "phone": 509,
+            "currency": "HTG",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Heard Island and Mcdonald Islands",
+            "code": "HM",
+            "phone": 0,
+            "currency": "AUD",
+            "continent": "Antarctica",
+            "continent_code": "AN"
+        },
+        {
+            "name": "Holy See (Vatican City State)",
+            "code": "VA",
+            "phone": 39,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Honduras",
+            "code": "HN",
+            "phone": 504,
+            "currency": "HNL",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Hong Kong",
+            "code": "HK",
+            "phone": 852,
+            "currency": "HKD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Hungary",
+            "code": "HU",
+            "phone": 36,
+            "currency": "HUF",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Iceland",
+            "code": "IS",
+            "phone": 354,
+            "currency": "ISK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "India",
+            "code": "IN",
+            "phone": 91,
+            "currency": "INR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Indonesia",
+            "code": "ID",
+            "phone": 62,
+            "currency": "IDR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Iran, Islamic Republic of",
+            "code": "IR",
+            "phone": 98,
+            "currency": "IRR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Iraq",
+            "code": "IQ",
+            "phone": 964,
+            "currency": "IQD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Ireland",
+            "code": "IE",
+            "phone": 353,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Isle of Man",
+            "code": "IM",
+            "phone": 44,
+            "currency": "GBP",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Israel",
+            "code": "IL",
+            "phone": 972,
+            "currency": "ILS",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Italy",
+            "code": "IT",
+            "phone": 39,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Jamaica",
+            "code": "JM",
+            "phone": 1876,
+            "currency": "JMD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Japan",
+            "code": "JP",
+            "phone": 81,
+            "currency": "JPY",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Jersey",
+            "code": "JE",
+            "phone": 44,
+            "currency": "GBP",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Jordan",
+            "code": "JO",
+            "phone": 962,
+            "currency": "JOD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Kazakhstan",
+            "code": "KZ",
+            "phone": 7,
+            "currency": "KZT",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Kenya",
+            "code": "KE",
+            "phone": 254,
+            "currency": "KES",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Kiribati",
+            "code": "KI",
+            "phone": 686,
+            "currency": "AUD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Korea, Democratic People's Republic of",
+            "code": "KP",
+            "phone": 850,
+            "currency": "KPW",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Korea, Republic of",
+            "code": "KR",
+            "phone": 82,
+            "currency": "KRW",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Kosovo",
+            "code": "XK",
+            "phone": 381,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Kuwait",
+            "code": "KW",
+            "phone": 965,
+            "currency": "KWD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "code": "KG",
+            "phone": 996,
+            "currency": "KGS",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Lao People's Democratic Republic",
+            "code": "LA",
+            "phone": 856,
+            "currency": "LAK",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Latvia",
+            "code": "LV",
+            "phone": 371,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Lebanon",
+            "code": "LB",
+            "phone": 961,
+            "currency": "LBP",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Lesotho",
+            "code": "LS",
+            "phone": 266,
+            "currency": "LSL",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Liberia",
+            "code": "LR",
+            "phone": 231,
+            "currency": "LRD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Libyan Arab Jamahiriya",
+            "code": "LY",
+            "phone": 218,
+            "currency": "LYD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Liechtenstein",
+            "code": "LI",
+            "phone": 423,
+            "currency": "CHF",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Lithuania",
+            "code": "LT",
+            "phone": 370,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Luxembourg",
+            "code": "LU",
+            "phone": 352,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Macao",
+            "code": "MO",
+            "phone": 853,
+            "currency": "MOP",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Macedonia, the Former Yugoslav Republic of",
+            "code": "MK",
+            "phone": 389,
+            "currency": "MKD",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Madagascar",
+            "code": "MG",
+            "phone": 261,
+            "currency": "MGA",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Malawi",
+            "code": "MW",
+            "phone": 265,
+            "currency": "MWK",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Malaysia",
+            "code": "MY",
+            "phone": 60,
+            "currency": "MYR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Maldives",
+            "code": "MV",
+            "phone": 960,
+            "currency": "MVR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Mali",
+            "code": "ML",
+            "phone": 223,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Malta",
+            "code": "MT",
+            "phone": 356,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Marshall Islands",
+            "code": "MH",
+            "phone": 692,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Martinique",
+            "code": "MQ",
+            "phone": 596,
+            "currency": "EUR",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Mauritania",
+            "code": "MR",
+            "phone": 222,
+            "currency": "MRO",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Mauritius",
+            "code": "MU",
+            "phone": 230,
+            "currency": "MUR",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Mayotte",
+            "code": "YT",
+            "phone": 269,
+            "currency": "EUR",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Mexico",
+            "code": "MX",
+            "phone": 52,
+            "currency": "MXN",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Micronesia, Federated States of",
+            "code": "FM",
+            "phone": 691,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Moldova, Republic of",
+            "code": "MD",
+            "phone": 373,
+            "currency": "MDL",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Monaco",
+            "code": "MC",
+            "phone": 377,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Mongolia",
+            "code": "MN",
+            "phone": 976,
+            "currency": "MNT",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Montenegro",
+            "code": "ME",
+            "phone": 382,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Montserrat",
+            "code": "MS",
+            "phone": 1664,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Morocco",
+            "code": "MA",
+            "phone": 212,
+            "currency": "MAD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Mozambique",
+            "code": "MZ",
+            "phone": 258,
+            "currency": "MZN",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Myanmar",
+            "code": "MM",
+            "phone": 95,
+            "currency": "MMK",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Namibia",
+            "code": "NA",
+            "phone": 264,
+            "currency": "NAD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Nauru",
+            "code": "NR",
+            "phone": 674,
+            "currency": "AUD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Nepal",
+            "code": "NP",
+            "phone": 977,
+            "currency": "NPR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Netherlands",
+            "code": "NL",
+            "phone": 31,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Netherlands Antilles",
+            "code": "AN",
+            "phone": 599,
+            "currency": "ANG",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "New Caledonia",
+            "code": "NC",
+            "phone": 687,
+            "currency": "XPF",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "New Zealand",
+            "code": "NZ",
+            "phone": 64,
+            "currency": "NZD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Nicaragua",
+            "code": "NI",
+            "phone": 505,
+            "currency": "NIO",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Niger",
+            "code": "NE",
+            "phone": 227,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Nigeria",
+            "code": "NG",
+            "phone": 234,
+            "currency": "NGN",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Niue",
+            "code": "NU",
+            "phone": 683,
+            "currency": "NZD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Norfolk Island",
+            "code": "NF",
+            "phone": 672,
+            "currency": "AUD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "code": "MP",
+            "phone": 1670,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Norway",
+            "code": "NO",
+            "phone": 47,
+            "currency": "NOK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Oman",
+            "code": "OM",
+            "phone": 968,
+            "currency": "OMR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Pakistan",
+            "code": "PK",
+            "phone": 92,
+            "currency": "PKR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Palau",
+            "code": "PW",
+            "phone": 680,
+            "currency": "USD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Palestinian Territory, Occupied",
+            "code": "PS",
+            "phone": 970,
+            "currency": "ILS",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Panama",
+            "code": "PA",
+            "phone": 507,
+            "currency": "PAB",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Papua New Guinea",
+            "code": "PG",
+            "phone": 675,
+            "currency": "PGK",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Paraguay",
+            "code": "PY",
+            "phone": 595,
+            "currency": "PYG",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Peru",
+            "code": "PE",
+            "phone": 51,
+            "currency": "PEN",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Philippines",
+            "code": "PH",
+            "phone": 63,
+            "currency": "PHP",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Pitcairn",
+            "code": "PN",
+            "phone": 64,
+            "currency": "NZD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Poland",
+            "code": "PL",
+            "phone": 48,
+            "currency": "PLN",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Portugal",
+            "code": "PT",
+            "phone": 351,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Puerto Rico",
+            "code": "PR",
+            "phone": 1787,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Qatar",
+            "code": "QA",
+            "phone": 974,
+            "currency": "QAR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Reunion",
+            "code": "RE",
+            "phone": 262,
+            "currency": "EUR",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Romania",
+            "code": "RO",
+            "phone": 40,
+            "currency": "RON",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Russian Federation",
+            "code": "RU",
+            "phone": 70,
+            "currency": "RUB",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Rwanda",
+            "code": "RW",
+            "phone": 250,
+            "currency": "RWF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Saint Barthelemy",
+            "code": "BL",
+            "phone": 590,
+            "currency": "EUR",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Saint Helena",
+            "code": "SH",
+            "phone": 290,
+            "currency": "SHP",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "code": "KN",
+            "phone": 1869,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Saint Lucia",
+            "code": "LC",
+            "phone": 1758,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Saint Martin",
+            "code": "MF",
+            "phone": 590,
+            "currency": "EUR",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Saint Pierre and Miquelon",
+            "code": "PM",
+            "phone": 508,
+            "currency": "EUR",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "code": "VC",
+            "phone": 1784,
+            "currency": "XCD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Samoa",
+            "code": "WS",
+            "phone": 684,
+            "currency": "WST",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "San Marino",
+            "code": "SM",
+            "phone": 378,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "code": "ST",
+            "phone": 239,
+            "currency": "STD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Saudi Arabia",
+            "code": "SA",
+            "phone": 966,
+            "currency": "SAR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Senegal",
+            "code": "SN",
+            "phone": 221,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Serbia",
+            "code": "RS",
+            "phone": 381,
+            "currency": "RSD",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Serbia and Montenegro",
+            "code": "CS",
+            "phone": 381,
+            "currency": "RSD",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Seychelles",
+            "code": "SC",
+            "phone": 248,
+            "currency": "SCR",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Sierra Leone",
+            "code": "SL",
+            "phone": 232,
+            "currency": "SLL",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Singapore",
+            "code": "SG",
+            "phone": 65,
+            "currency": "SGD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Sint Maarten",
+            "code": "SX",
+            "phone": 1,
+            "currency": "ANG",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Slovakia",
+            "code": "SK",
+            "phone": 421,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Slovenia",
+            "code": "SI",
+            "phone": 386,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Solomon Islands",
+            "code": "SB",
+            "phone": 677,
+            "currency": "SBD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Somalia",
+            "code": "SO",
+            "phone": 252,
+            "currency": "SOS",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "South Africa",
+            "code": "ZA",
+            "phone": 27,
+            "currency": "ZAR",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "South Georgia and the South Sandwich Islands",
+            "code": "GS",
+            "phone": 500,
+            "currency": "GBP",
+            "continent": "Antarctica",
+            "continent_code": "AN"
+        },
+        {
+            "name": "South Sudan",
+            "code": "SS",
+            "phone": 211,
+            "currency": "SSP",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Spain",
+            "code": "ES",
+            "phone": 34,
+            "currency": "EUR",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Sri Lanka",
+            "code": "LK",
+            "phone": 94,
+            "currency": "LKR",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Sudan",
+            "code": "SD",
+            "phone": 249,
+            "currency": "SDG",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Suriname",
+            "code": "SR",
+            "phone": 597,
+            "currency": "SRD",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Svalbard and Jan Mayen",
+            "code": "SJ",
+            "phone": 47,
+            "currency": "NOK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Swaziland",
+            "code": "SZ",
+            "phone": 268,
+            "currency": "SZL",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Sweden",
+            "code": "SE",
+            "phone": 46,
+            "currency": "SEK",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Switzerland",
+            "code": "CH",
+            "phone": 41,
+            "currency": "CHF",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "Syrian Arab Republic",
+            "code": "SY",
+            "phone": 963,
+            "currency": "SYP",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Taiwan, Province of China",
+            "code": "TW",
+            "phone": 886,
+            "currency": "TWD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Tajikistan",
+            "code": "TJ",
+            "phone": 992,
+            "currency": "TJS",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Tanzania, United Republic of",
+            "code": "TZ",
+            "phone": 255,
+            "currency": "TZS",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Thailand",
+            "code": "TH",
+            "phone": 66,
+            "currency": "THB",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Timor-Leste",
+            "code": "TL",
+            "phone": 670,
+            "currency": "USD",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Togo",
+            "code": "TG",
+            "phone": 228,
+            "currency": "XOF",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Tokelau",
+            "code": "TK",
+            "phone": 690,
+            "currency": "NZD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Tonga",
+            "code": "TO",
+            "phone": 676,
+            "currency": "TOP",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "code": "TT",
+            "phone": 1868,
+            "currency": "TTD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Tunisia",
+            "code": "TN",
+            "phone": 216,
+            "currency": "TND",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Turkey",
+            "code": "TR",
+            "phone": 90,
+            "currency": "TRY",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Turkmenistan",
+            "code": "TM",
+            "phone": 7370,
+            "currency": "TMT",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "code": "TC",
+            "phone": 1649,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Tuvalu",
+            "code": "TV",
+            "phone": 688,
+            "currency": "AUD",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Uganda",
+            "code": "UG",
+            "phone": 256,
+            "currency": "UGX",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Ukraine",
+            "code": "UA",
+            "phone": 380,
+            "currency": "UAH",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "United Arab Emirates",
+            "code": "AE",
+            "phone": 971,
+            "currency": "AED",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "United Kingdom",
+            "code": "GB",
+            "phone": 44,
+            "currency": "GBP",
+            "continent": "Europe",
+            "continent_code": "EU"
+        },
+        {
+            "name": "United States",
+            "code": "US",
+            "phone": 1,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "United States Minor Outlying Islands",
+            "code": "UM",
+            "phone": 1,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Uruguay",
+            "code": "UY",
+            "phone": 598,
+            "currency": "UYU",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Uzbekistan",
+            "code": "UZ",
+            "phone": 998,
+            "currency": "UZS",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Vanuatu",
+            "code": "VU",
+            "phone": 678,
+            "currency": "VUV",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Venezuela",
+            "code": "VE",
+            "phone": 58,
+            "currency": "VEF",
+            "continent": "South America",
+            "continent_code": "SA"
+        },
+        {
+            "name": "Viet Nam",
+            "code": "VN",
+            "phone": 84,
+            "currency": "VND",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Virgin Islands, British",
+            "code": "VG",
+            "phone": 1284,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Virgin Islands, U.s.",
+            "code": "VI",
+            "phone": 1340,
+            "currency": "USD",
+            "continent": "North America",
+            "continent_code": "NA"
+        },
+        {
+            "name": "Wallis and Futuna",
+            "code": "WF",
+            "phone": 681,
+            "currency": "XPF",
+            "continent": "Oceania",
+            "continent_code": "OC"
+        },
+        {
+            "name": "Western Sahara",
+            "code": "EH",
+            "phone": 212,
+            "currency": "MAD",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Yemen",
+            "code": "YE",
+            "phone": 967,
+            "currency": "YER",
+            "continent": "Asia",
+            "continent_code": "AS"
+        },
+        {
+            "name": "Zambia",
+            "code": "ZM",
+            "phone": 260,
+            "currency": "ZMW",
+            "continent": "Africa",
+            "continent_code": "AF"
+        },
+        {
+            "name": "Zimbabwe",
+            "code": "ZW",
+            "phone": 263,
+            "currency": "ZWL",
+            "continent": "Africa",
+            "continent_code": "AF"
         }
     ],
     "bgColors": [

@@ -17,4 +17,8 @@ class UserBasic extends Model
     {
         return $this->hasMany("App\Models\UserSML", "userBasicId");
     }
+    public function basicPhoto()
+    {
+        return $this->hasMany("App\Models\basicPhoto", "userBasicId");
+    }
 }

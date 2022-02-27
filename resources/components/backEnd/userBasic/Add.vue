@@ -84,9 +84,9 @@
                 <option
                   v-for="(country, i) in countries"
                   :key="i"
-                  :value="country.value"
+                  :value="country.code"
                 >
-                  {{ country.text }}
+                  {{ country.name }}
                 </option>
               </select>
             </div>
@@ -313,6 +313,7 @@ export default {
       this.form.fullName = null;
       this.form.dob = null;
       this.form.country = null;
+      this.form.profileImg = null;
       this.form.status = Boolean(1);
       this.form.medias = [];
       this.close();

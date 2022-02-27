@@ -42,10 +42,17 @@ class UserBasicController extends Controller
         $userBasic->dob = $request->dob;
         $userBasic->country = $request->country;
         $userBasic->phone = $request->phone;
+        // if ($request->hasFile("profileImg")) {
+        //     $profileImg = $request->file('profileImg');
+        //     $imgName = time() . rand() . '.' . $profileImg->extension();
+        //     $profileImg->move(public_path('frontEnd/assets/img/profile'), $imgName);
+        //     $mainProfileImg = 'frontEnd/assets/img/profile/' . $imgName;
+        //     $userBasic->profileImg = $mainProfileImg;
+        // } else {
+        //     $userBasic->profileImg = $request->profileImg;
+        // }
         $userBasic->status = $request->status;
         $userBasic->save();
-
-
         foreach ($request->medias as $medias) {
             $userSml = new UserSML();
             $userSml->userBasicId = $userBasic->id;
@@ -53,7 +60,6 @@ class UserBasicController extends Controller
             $userSml->mediaLinks = $medias["link"];
             $userSml->save();
         }
-        // return $request->data;
     }
 
     /**
